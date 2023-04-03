@@ -1,1 +1,1 @@
-# daugia
+# C# Multithreading mini project
